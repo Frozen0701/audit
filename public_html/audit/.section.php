@@ -1,0 +1,6 @@
+<?
+$sSectionName = "audit";
+$arDirProperties = Array(
+
+);
+?>

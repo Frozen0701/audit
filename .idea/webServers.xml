@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2f44b3cc-04b2-4503-a392-10d924ec9ca4" name="1111">
+        <fileTransfer rootFolder="/home/i/itesc1/it-escort" accessType="SFTP" host="itescort.ru" port="22" sshConfigId="3c7e7ac4-26ff-44a2-a4a0-8f5525792b8f" sshConfig="itesc1@itescort.ru:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
